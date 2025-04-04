@@ -175,7 +175,7 @@
     "chokidar": "^3.6.0",
     "compare-versions": "^6.1.0",
     "date.js": "^0.3.3",
-    "dockerode": "^4.0.2",
+    "dockerode": "^4.0.5",
     "electron-context-menu": "^3.6.1",
     "electron-updater": "6.1.8",
     "electron-util": "^0.18.1",
@@ -188,7 +188,7 @@
     "stream-json": "^1.8.0",
     "sudo-prompt": "^9.2.1",
     "tar": "^6.2.1",
-    "tar-fs": "^3.0.5",
+    "tar-fs": "^3.0.7",
     "undici": "^6.10.2",
     "win-ca": "^3.5.1",
     "yaml": "^2.4.1"
