@@ -167,7 +167,7 @@
   },
   "dependencies": {
     "@docker/extension-api-client-types": "0.3.4",
-    "@kubernetes/client-node": "^0.20.0",
+    "@kubernetes/client-node": "^1.0.0",
     "@segment/analytics-node": "^2.1.0",
     "@types/stream-json": "^1.7.7",
     "adm-zip": "^0.5.12",
@@ -179,7 +179,7 @@
     "electron-context-menu": "^3.6.1",
     "electron-updater": "6.1.8",
     "electron-util": "^0.18.1",
-    "express": "^4.19.2",
+    "express": "^4.22.0",
     "getos": "^3.2.1",
     "got": "^13.0.0",
     "hpagent": "^1.2.0",
